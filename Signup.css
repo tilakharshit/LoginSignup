@@ -1,0 +1,90 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+.signup{
+    width: 400px;
+    margin: 90px auto;
+    text-align: center;
+    height: 100vh;
+}
+
+.form_signup{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+   margin: 135px auto;
+   background-color: #ffffff !important;
+   height: 50vh;
+    border-radius: 10px;
+
+}
+
+h1{
+    background-color: aliceblue;
+}
+
+input{
+    margin-bottom: 30px;
+    padding: 15px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    outline: none;
+}
+
+.btn{
+    width: 90px;
+    padding: 10px;
+    margin: 10px auto;
+    background-color: #fff !important;
+    border-radius: 12px;
+    outline: none;
+}
+
+#signup{
+    outline: none;
+    border:0;
+    border-bottom: 2px;
+}
+
+.btn:hover{
+    color:aqua;
+    cursor: pointer;
+    background-color: red;
+    outline: none;
+}
+
+
+p{
+  background-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

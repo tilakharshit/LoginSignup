@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+
+}
+
+.active_class{
+    background-color: none;
+    outline: none;
+}

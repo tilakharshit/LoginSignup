@@ -1,0 +1,86 @@
+*{
+ 
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    
+}
+
+.Main_form{
+   
+}
+
+.form_details{
+   
+    
+}
+
+
+#form{
+    width: 287px;
+}
+
+#phone{
+
+}
+ 
+.PhoneInputCountry{
+    margin: auto;
+
+}
+
+.PhoneInput {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    margin: 38px;
+    margin-left: -114px;
+}
+
+#address{
+    width: 293px;
+    padding: 21px;
+    background-color: #fff !important;
+    border-radius: 8px;
+    margin: 6px;
+
+}
+
+
+.form_btn{
+    top: 68px;
+    left: -195px; 
+    color: black;
+    background-color: #fff;
+    
+}
+
+ 
+.form_btn :hover{
+    color: aqua;
+}
+
+.MuiButton-label {
+  
+}
+
+
+.MuiButtonBase-root{
+    border-radius:3px solid red; 
+}
+
+
+.MuiButtonBase-root {
+
+    border: 1px solid;
+    background-color: rgb(62, 204, 19);
+}
+
+.MuiButton-label {
+    background-color:none;
+    border-radius: 5px solid;
+    color: #fff;
+    box-shadow: 0 0 5px 0px;
+    
+    
+}
